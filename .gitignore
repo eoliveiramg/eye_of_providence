@@ -18,3 +18,7 @@
 !/tmp/.keep
 
 .byebug_history
+
+# RVM Configs
+.ruby-version
+.ruby-gemset
